@@ -9,5 +9,6 @@ public class SimpleDemo {
         System.out.println ("小demo又又又来开发.." );
         System.out.println ("小a又又又来开发了.." );
         System.out.println ("下a下班了" );
+        System.out.println ("小d下班了" );
     }
 }
